@@ -19,7 +19,7 @@
 }
 
 .navx:hover {
-  color: #ffcef2;
+  color: #2c5488;
 }
 .work-j {
   margin-top: 45px;
@@ -34,13 +34,13 @@
 .img {
   margin-top: 0px;
   margin-left: 40px;
-  background-color: rgb(255, 234, 246);
+  background-color: rgb(77, 86, 167);
 }
 .profile {
   margin-top: 60px;
   padding-left: 5px;
 }
-.wahyuna {
+.savara {
   color: rgba(16, 119, 236, 0.87);
   font-size: 8vmin;
   font-family: Poppins;
@@ -79,7 +79,7 @@ h2 {
   margin-top: 0px;
   padding-top: 0px;
   padding-bottom: 115px;
-  background-color: #ffffff;
+  background-color: #f4f7fc;
 }
 .about {
   padding-right: 40px;
@@ -88,11 +88,11 @@ h2 {
 }
 #hobby {
   padding-top: 20px;
-  background-color: #ffffff;
+  background-color: #6183cc;
 }
 #contact {
   padding-top: 20px;
-  background-color: #ffffff;
+  background-color: #72b2dd;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -169,10 +169,10 @@ footer {
   box-shadow: 0px 1px 1px 0px rgb(77, 77, 77);
 }
 .send:hover {
-  background-color: rgb(22, 123, 255);
+  background-color: rgb(145, 181, 228);
 }
 .card {
-  background-color: rgb(248, 226, 243);
+  background-color: rgb(143, 144, 229);
 }
 .card:hover {
   background-color: rgb(164, 211, 255);
